@@ -81,6 +81,7 @@ _meta: # meta field to hold repeatedly used values
     - "YN"
     - "YNA"
     - "N"
+    - "STV"
     - "valid"
     - "cast"
     - "entitled"
@@ -3216,6 +3217,7 @@ poll:
       - "YN"
       - "YNA"
       - "N"
+      - "STV"
     restriction_mode: A
   state:
     type: string
