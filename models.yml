@@ -81,7 +81,6 @@ _meta: # meta field to hold repeatedly used values
     - "YN"
     - "YNA"
     - "N"
-    - "STV"
     - "valid"
     - "cast"
     - "entitled"
